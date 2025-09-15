@@ -2,6 +2,7 @@
 
 A sleek and modern password generator built with **React.js**, **Tailwind CSS**, and **Framer Motion**.  
 Easily generate secure passwords with customizable options like uppercase letters, lowercase letters, numbers, and symbols.
+
 <img width="1600" height="696" alt="image" src="https://github.com/user-attachments/assets/b6dcfaea-9699-4438-96d7-ff151870f2fb" />
 
 
